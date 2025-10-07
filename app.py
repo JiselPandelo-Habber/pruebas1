@@ -1,6 +1,7 @@
 print("hola git") 
-'print("segunda l�nea")' 
+print("segunda linea") 
 print("cambios por interfaz")
 print("from feature branch")
 print("second commit from feature branch") 
 print ("this is the change in main")
+print ("create a change to create conflict")
